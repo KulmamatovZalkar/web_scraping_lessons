@@ -1,4 +1,3 @@
-from os import writev
 import requests
 from bs4 import BeautifulSoup
 import json
