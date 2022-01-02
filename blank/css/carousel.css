@@ -1,0 +1,21 @@
+/* CUSTOMIZE CAROUSEL */
+
+/* indicators */
+ol.carousel-indicators li.active {
+    background-color: rgba(45, 146, 204, 1);
+  }
+  
+  ol.carousel-indicators li {
+    background-color: rgba(45, 146, 204, 0.6);
+  }
+  
+  /* carousel-control (prev/next) */
+  .carousel a:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+  }
+  
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    filter: invert(70%);
+  }
+  
